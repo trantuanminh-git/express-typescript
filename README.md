@@ -1,4 +1,4 @@
 .gitignore
-dist
-node_modules
+dist, 
+node_modules, 
 .env
